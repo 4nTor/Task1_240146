@@ -7,4 +7,4 @@ a/left arrow for left, d/right arrow for right<br>
 space to jump<br>
 left click to attack<br>
 ### Link : https://drive.google.com/drive/folders/1C9e_M1TNITJtnyWWun6YlEmhRj2-v8HM?usp=sharing
-(wanted to add more functionality and levels, but couldn't due to time constraints)
+[wanted to add more functionality and levels, but couldn't due to time constraints :(  ]
